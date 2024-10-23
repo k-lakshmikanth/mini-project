@@ -1,0 +1,4 @@
+# ignore all the __pycache__ directories in all child directories
+__pycache__/
+*.py[cod]
+*$py.class
