@@ -1,1 +1,1 @@
-# mini-project
+# the  Impact and Response of Artificial Intelligence on the Theory of Enterprise Management
